@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Teodora Tsvikina – Portfolio</title>
+</head>
+<body>
+  <h1>Welcome to My AI Portfolio</h1>
+  <p>I'm Teodora Tsvikina. This is my personal site for sharing my learning projects in data and AI.</p>
+  <ul>
+    <li><a href="deep_sea_fish/index.html">Deep Sea Fish Classifier</a></li>
+  </ul>
+</body>
+</html>
