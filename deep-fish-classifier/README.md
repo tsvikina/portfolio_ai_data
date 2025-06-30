@@ -1,21 +1,25 @@
 # Deep Sea Fish Classifier
 
-Welcome! This is my first deep learning project using the [fastai](https://www.fast.ai/) library.
+Welcome to my first deep learning project, built with the [fastai](https://www.fast.ai/) library and deployed on [Hugging Face Spaces](https://huggingface.co/spaces)!
 
-## What it does
-This project trains a model to classify images of deep-sea fish species. You can test it yourself by uploading your own fish images.
+## What It Does  
+This app uses a convolutional neural network (CNN) to classify images of **deep-sea fish species**. Just upload an image of a fish, and the model will try to identify its species.
 
-## Tools used
-- Python
-- fastai
-- Jupyter Notebook
-- GitHub Pages
+## Try It Out  
+  **Live Demo:** [Click here to test it on Hugging Face Spaces](https://huggingface.co/spaces/)  
+> Replace the link with your actual Hugging Face Spaces URL once deployed.
 
-## Blog
-This project is part of my learning journey in AI. Read the full post and see the model results [here](./fish_classifier.html).
+## Tools & Technologies  
+- Python  
+- [fastai](https://www.fast.ai/)  
+- Jupyter Notebook  
+- [Gradio](https://www.gradio.app/) — for the web interface  
+- [Hugging Face Spaces](https://huggingface.co/spaces) — for deployment  
+- Git + GitHub — for version control
 
-## About me
-I'm Teodora — transitioning from event and culture management to data and AI. I'm currently studying deep learning with fastai and building my portfolio.
+## Blog Post  
+This project is part of my journey into AI and deep learning. I’ve documented the full process, including model training and lessons learned:  
+📄 [Read the blog post](./fish_classifier.html)
 
-## Try it yourself
-If you're curious, you can upload your own fish image and see what the model predicts!
+## About Me  
+Hi, I’m **Teodora** — transitioning from a background in **event and culture management** into the world of **data and AI**. I'm currently learning deep learning with fastai and sharing my progress through hands-on projects like this one.
