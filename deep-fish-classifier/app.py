@@ -1,4 +1,4 @@
-
+# Gradio app script 
 from fastai.vision.all import *
 import gradio as gr
 
