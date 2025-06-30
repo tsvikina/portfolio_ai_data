@@ -2,13 +2,15 @@
 from fastai.vision.all import *
 import gradio as gr
 
+# Load the model
 learn = load_learner('deep_fish_classifier.pkl')
 
-# Prediction function
-def classify_image(img):
-    pred_class, pred_idx, probs = learn.predict(img)
-    return f"{pred_class} ({probs[pred_idx]:.2%})"
+# Define prediction function
+def predict(img):
+    pred, idx, probs = learn.predict(img)
+    return {str(learn.dls.vocab[i]): float(probs[i]) for i in range(len(probs))}
 
-# Building Gradio interface
-demo = gr.Interface(fn=classify_image, inputs="image", outputs="text")
-demo.launch()
+# Create Gradio interface
+iface = gr.Interface(fn=predict, inputs=gr.Image(type="pil"), outputs=gr.Label())
+iface.launch()
+
