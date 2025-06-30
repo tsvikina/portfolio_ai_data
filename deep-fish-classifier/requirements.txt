@@ -7,4 +7,4 @@ python-slugify
 pillow
 numpy
 matplotlib
-scikit-learn
+scikit
