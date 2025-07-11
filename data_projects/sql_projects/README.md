@@ -1,20 +1,20 @@
-# 🗃️ SQL Projects
+# SQL Projects
 
 Welcome! This section contains some of my SQL projects, showcasing my skills in data exploration, transformation, and querying.
 
 ---
 
-## 📌 Project 1: Data Cleaning with SQL
+## Project 1: Data Cleaning with SQL
 
-- **Dataset**: [To be added – e.g. messy_sales_data.csv]
+- **Dataset**: 
 - **Skills**: Filtering nulls, fixing schema errors, standardizing formats
-- **Tools**: PostgreSQL / SQLite
+- **Tools**: PostgreSQL
 - **Reflection**:  
   Practiced cleaning operations such as using `COALESCE()`, removing duplicates, renaming fields, and transforming values. Learned how important it is to understand the context before cleaning.
 
 ---
 
-## 📌 Project 2: SQL Practice with Joins and Window Functions
+## Project 2: SQL Practice with Joins and Window Functions
 
 - **Dataset**: Chinook SQLite Database ([Download link](https://github.com/lerocha/chinook-database))
 - **Skills**: INNER JOIN, LEFT JOIN, Subqueries, Window Functions (`RANK()`, `ROW_NUMBER()`)
@@ -24,7 +24,7 @@ Welcome! This section contains some of my SQL projects, showcasing my skills in 
 
 ---
 
-## 📌 Project 3: [To Be Decided – Add Your Own Idea!]
+## Project 3: [To Be Decided – Add Your Own Idea!]
 
 - **Dataset**: [Add name or link]
 - **Skills**: [e.g., CTEs, Aggregation, Data storytelling]
@@ -33,7 +33,7 @@ Welcome! This section contains some of my SQL projects, showcasing my skills in 
 
 ---
 
-### 📁 File Structure
+### File Structure
 ```
 sql-projects/
 │
@@ -50,7 +50,7 @@ sql-projects/
 
 ---
 
-### 📌 Tools Used
+### Tools Used
 
 - PostgreSQL / SQLite
 - DBeaver / DB Browser for SQLite
