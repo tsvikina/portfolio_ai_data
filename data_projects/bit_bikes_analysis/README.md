@@ -1,4 +1,4 @@
-# 🚲 Bit Bikes: Bikesharing Inventory Analysis
+# Bit Bikes: Bikesharing Inventory Analysis
 
 ## Project Overview
 

@@ -1,16 +1,26 @@
 # Welcome to My AI & Data Projects
 
-Hi, I'm Teodora! I'm transitioning into data and AI from a background in event and cultural management.
+Hello, I'm Teodora. Over the past two years, I've been transitioning from organizing alternative music and multidisciplinary events in DIY spaces to building a new path in data and technology.
 
-Here you'll find my learning projects, experiments, and blog posts as I study deep learning, data analysis, and more.
+I'm passionate about uncovering insights through data and exploring how machine learning and analytics can be applied in creative and meaningful ways.
+
+This portfolio is a collection of my learning projects, experiments, and blog posts as I continue studying deep learning, data analysis, and related topics.
+
+I'm currently seeking a junior data position or internship, preferably in the Rotterdam, The Netherlands region, but I'm also open to remote opportunities and collaborative projects.
+
+I'm especially interested in working with organizations that promote social equality, empower underrepresented communities, celebrate difference and diversity, and support environmental sustainability.
 
 ## Current Focus
 - Deep Learning with [fastai](https://course.fast.ai/)
-- Prompt Engineering (Bit Academy)
-- Data & AI internships with impact
+- Looking for Data & AI internships with impact
 
 ## Projects
-- [Deep Sea Fish Classifier](./fish_classifier.html): My first fastai project — classify fish species using computer vision!
+The project section is divided in two parts: data projects and deep learning projects:
+- Deep Learning projects: 
+    - [Deep Sea Fish Classifier](./fish_classifier.html): My first fastai project — classify fish species using computer vision!
+- Data projects:
+    - [Bit Bikes Inventory Analysis](data_projects/bit_bikes_analysis) – A time series analysis of Divvy bike trips (2020–2022) to forecast inventory needs for July 2023 and support smarter bikeshare operations.
+    - [Chinook Data Exploration with SQL and Jupyter Notebooks](data_projects/chinook_project) -  A multi-layered exploration of customer behavior, genre profitability, and artist performance in a digital music store using advanced SQL techniques and data visualizations.
 
 More coming soon...
 
