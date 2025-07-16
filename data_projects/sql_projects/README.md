@@ -24,10 +24,12 @@ Welcome! This section contains some of my SQL projects, showcasing my skills in 
 
 ---
 
-## Project 3: [To Be Decided – Add Your Own Idea!]
+## Project 3: Project Missing Money Matters (LinkedIN Learning SQL Essentials course)
 
-- **Dataset**: [Add name or link]
-- **Skills**: [e.g., CTEs, Aggregation, Data storytelling]
+- **Dataset**: WSDA Music Store (SQLite sample used in the course)
+
+- **Skills**: Aggregation, CTEs, Data Storytelling, Subqueries, JOINs
+- **Tools**: DBeaver
 - **Reflection**:  
   [Write 2-3 sentences after the project is complete.]
 
@@ -43,9 +45,13 @@ sql-projects/
 │
 ├── project2_chinook_queries/
 │   ├── chinook_queries.sql
+|   ├── chinook_Sqlite
 │   └── README.md
 │
-└── project3_to_be_added/
+└── project3_WSDA_music_store/
+│   ├── wsda_queries.sql
+│   ├── WSDA_Music.db
+│   └── README.md
 ```
 
 ---
