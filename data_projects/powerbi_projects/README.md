@@ -40,3 +40,24 @@ This dashboard presents a geographic analysis of the Netherlands, highlighting t
 
 **Dataset:** The dataset was sourced from a public CSV file:  
 [nederland.csv](https://prod-jarvis-public.s3.eu-west-1.amazonaws.com/ec8a5143-e58d-43db-9ea4-2e6f50fe406c/nl/1/nederland.csv)
+
+---
+
+### 3. Sales Performance Dashboard
+
+An interactive sales dashboard built with Power BI. The dashboard provides insights into sales trends, item performance, store performance, and seasonal patterns based on historical sales data.
+
+**Features:**
+- Time-based sales trends
+- Top-performing items and categories
+- Store-level performance comparison
+- Monthly and seasonal breakdown
+
+**Dataset:** 
+The analysis is based on a multi-table dataset (star schema).
+
+[district.csv](https://prod-jarvis-public.s3.eu-west-1.amazonaws.com/3b69a5ce-4e3a-400e-b48e-f31ac386d2bb/nl/1/district.csv) 
+[item.csv](https://prod-jarvis-public.s3.eu-west-1.amazonaws.com/3b69a5ce-4e3a-400e-b48e-f31ac386d2bb/nl/1/item.csv) 
+[sales.csv](https://prod-jarvis-public.s3.eu-west-1.amazonaws.com/3b69a5ce-4e3a-400e-b48e-f31ac386d2bb/nl/1/sales.csv) 
+[store.csv](https://prod-jarvis-public.s3.eu-west-1.amazonaws.com/3b69a5ce-4e3a-400e-b48e-f31ac386d2bb/nl/1/store.csv) 
+[time.csv](https://prod-jarvis-public.s3.eu-west-1.amazonaws.com/3b69a5ce-4e3a-400e-b48e-f31ac386d2bb/nl/1/time.csv)
