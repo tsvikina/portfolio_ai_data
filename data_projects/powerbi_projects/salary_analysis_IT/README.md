@@ -25,10 +25,10 @@ The dataset was sourced from a public CSV file:
 ## Screenshots
 
 
-!<Dashboard Overview>(./screenshots/dashboard_salaries.png)
+![Dashboard Overview](./screenshots/dashboard_salaries.png)
 
-!<Only Managers Selected>(./screenshots/all_managers.png)
+![Only Managers Selected](./screenshots/all_managers.png)
 
-!<Average Base Salary per Gender Data Scientists>(./screenshots/average_base_salary_data_scientist_female_vs_male_20_yrs.png)
+![Average Base Salary per Gender Data Scientists](./screenshots/average_base_salary_data_scientist_female_vs_male_20_yrs.png)
 
-!<Only Managers in Amazon>(./screenshots/managers_in_amazon.png)
+![Only Managers in Amazon](./screenshots/managers_in_amazon.png)
